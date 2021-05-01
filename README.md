@@ -8,4 +8,3 @@
 ★**Другое**
 [Папка на облако меил ру](https://cloud.mail.ru/public/YnKv/fUV89mucN)
 
-# mysite2
