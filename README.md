@@ -2,5 +2,10 @@
 ★**Браузеры, browser**  
 [Vivaldi](https://vivaldi.com/ru/), [Chrome](https://www.google.com/intl/ru/chrome/?standalone=1), [Opera](https://get.opera.com/ftp/pub/opera/desktop/), [firefox](https://www.mozilla.org/ru/firefox/all/#product-desktop-release), [Chromium](https://download-chromium.appspot.com/), [MS Edge](https://www.microsoft.com/ru-ru/edge)     
 ★**Эмуляторы андроид**  
-[статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html), [BlueStacks](https://support.bluestacks.com/hc/en-us/articles/360028172691-BlueStacks-offline-installer), [Nox](https://www.bignox.com/), [Andy OS](https://www.andyroid.net/),       
+[статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html), [BlueStacks](https://support.bluestacks.com/hc/en-us/articles/360028172691-BlueStacks-offline-installer), [Nox](https://www.bignox.com/), [Andy OS](https://www.andyroid.net/),    
+★**Узнать ip**  
+[whoer.net](https://whoer.net/), [2ip.ru](https://2ip.ru/), [янд.интернет](https://yandex.ru/internet),   
+[api.ipify.org](https://api.ipify.org), [ipify.org](https://www.ipify.org/)  
+★**Другое**
+[Папка на облако меил ру](https://cloud.mail.ru/public/YnKv/fUV89mucN)
 
