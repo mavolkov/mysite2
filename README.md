@@ -10,4 +10,6 @@
 
 ★**Удаленное управление**  
 [Anydesk](https://anydesk.com/ru), [TeamViewer](https://www.teamviewer.com/ru/),   
-
+★**Telegram Web**
+[Версия K](https://webk.telegram.org/)       
+[Версия Z](https://webz.telegram.org/)       
