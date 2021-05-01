@@ -8,3 +8,6 @@
 ★**Другое**     
 [Папка на облако меил ру](https://cloud.mail.ru/public/YnKv/fUV89mucN)
 
+★**Удаленное управление**  
+[Anydesk](https://anydesk.com/ru), [TeamViewer](https://www.teamviewer.com/ru/),   
+
