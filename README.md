@@ -1,4 +1,4 @@
-**Узнать свой ip**: [whoer.net](https://whoer.net/), [2ip.ru](https://2ip.ru/), [янд.интернет](https://yandex.ru/internet),      
+Узнать свой ip: [whoer.net](https://whoer.net/), [2ip.ru](https://2ip.ru/), [янд.интернет](https://yandex.ru/internet),      
 Быстрая выдача ip: [api.ipify.org](https://api.ipify.org), [ipify.org](https://www.ipify.org/)     
 
 ★**Браузеры, browser**   
