@@ -1,5 +1,6 @@
 Узнать свой ip: [whoer.net](https://whoer.net/), [2ip.ru](https://2ip.ru/), [янд.интернет](https://yandex.ru/internet),      
 Быстрая выдача: [api.ipify.org](https://api.ipify.org), [ipify.org](https://www.ipify.org/)     
+Разрешение экрана: [myresolutionis.ru](http://myresolutionis.ru/)    
 
 ★**Браузеры, browser**   
 [Vivaldi](https://vivaldi.com/ru/), [Chrome](https://www.google.com/intl/ru/chrome/?standalone=1), [Opera](https://get.opera.com/ftp/pub/opera/desktop/), [firefox](https://www.mozilla.org/ru/firefox/all/#product-desktop-release), [Chromium](https://download-chromium.appspot.com/), [MS Edge](https://www.microsoft.com/ru-ru/edge), [Brave](https://brave.com/), [Brave Github](https://github.com/brave/brave-browser/releases/),          
