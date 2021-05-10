@@ -3,7 +3,7 @@
 Разрешение экрана: [screenresolution.ru](https://screenresolution.ru/), [myresolutionis.ru](http://myresolutionis.ru/)    
 
 ★**Браузеры, browser**   
-[Vivaldi](https://vivaldi.com/ru/), [Chrome](https://www.google.com/intl/ru/chrome/?standalone=1), [Opera(отл.уст.)](https://www.opera.com/ru/download), [Opera(хранилище)](https://get.opera.com/ftp/pub/opera/desktop/), [firefox](https://www.mozilla.org/ru/firefox/all/#product-desktop-release), [Chromium](https://download-chromium.appspot.com/), [MS Edge](https://www.microsoft.com/ru-ru/edge), [Brave](https://brave.com/), [Brave Github](https://github.com/brave/brave-browser/releases/),          
+[Vivaldi](https://vivaldi.com/ru/), [Chrome](https://www.google.com/intl/ru/chrome/?standalone=1), [Opera(отлож.уст.)](https://www.opera.com/ru/download), [Opera(хранилище)](https://get.opera.com/ftp/pub/opera/desktop/), [firefox](https://www.mozilla.org/ru/firefox/all/#product-desktop-release), [Chromium](https://download-chromium.appspot.com/), [MS Edge](https://www.microsoft.com/ru-ru/edge), [Brave](https://brave.com/), [Brave Github](https://github.com/brave/brave-browser/releases/),          
 ★**Эмуляторы андроид**   
 [статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html), [BlueStacks](https://support.bluestacks.com/hc/en-us/articles/360028172691-BlueStacks-offline-installer), [Nox](https://www.bignox.com/), [Andy OS](https://www.andyroid.net/),         
 ★**Другое**     
