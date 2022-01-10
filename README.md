@@ -15,11 +15,10 @@
 [Версия K](https://webk.telegram.org/)       
 [Версия Z](https://webz.telegram.org/)       
 
-magnet-link: 
+magnet-link (магнет-линк): 
 ```
 magnet:?xt=urn:btih:
 ```
-магнет-линк
 ```
 magnet:?xt=urn:btih:хэш  
 ```
