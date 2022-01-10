@@ -15,7 +15,7 @@
 [Версия K](https://webk.telegram.org/)       
 [Версия Z](https://webz.telegram.org/)       
 
-magnet-link (магнет-линк): 
+**magnet-link (магнет-линк):**   
 ```
 magnet:?xt=urn:btih:
 ```
