@@ -18,7 +18,7 @@
 [Opera (отлож.уст.)](https://www.opera.com/ru/download#:~:text=%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C)   
 [Opera - хранилище версий](https://get.opera.com/ftp/pub/opera/desktop/#:~:text=10%3A29%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2D%0A90.0.4480.80/-,01%2DSep%2D2022,-12%3A13%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2D)   
 [Opera - Opera VPN(включить)](https://addons.opera.com/ru/extensions/details/opera-vpn/)   
-[OperaGX](https://www.opera.com/ru/gx#:~:text=%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C)   
+[Opera - OperaGX](https://www.opera.com/ru/gx#:~:text=%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C)   
 [Chromium](https://download-chromium.appspot.com/)   
 [MS Edge](https://www.microsoft.com/ru-ru/edge)   
 [Brave](https://brave.com/)   
