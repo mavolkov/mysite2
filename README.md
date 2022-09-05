@@ -13,9 +13,9 @@
 ★**Браузеры**   
 [Vivaldi](https://vivaldi.com/ru/)   
 [Chrome (полный установщик)](https://www.google.com/intl/ru/chrome/?standalone=1)   
-[Chrome(отлож.уст.)](https://support.google.com/chrome/answer/95346?hl=ru&co=GENIE.Platform%3DDesktop#zippy=%2Cwindows)   
+[Chrome - отложенная установка)](https://support.google.com/chrome/answer/95346?hl=ru&co=GENIE.Platform%3DDesktop#zippy=%2Cwindows)   
 [Firefox](https://www.mozilla.org/ru/firefox/all/#product-desktop-release)   
-[Opera (отлож.уст.)](https://www.opera.com/ru/download#:~:text=%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C)   
+[Opera - отложенная установка)](https://www.opera.com/ru/download#:~:text=%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C)   
 [Opera - хранилище версий](https://get.opera.com/ftp/pub/opera/desktop/#:~:text=10%3A29%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2D%0A90.0.4480.80/-,01%2DSep%2D2022,-12%3A13%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2D)   
 [Opera - Opera VPN(включить)](https://addons.opera.com/ru/extensions/details/opera-vpn/)   
 [Opera - OperaGX](https://www.opera.com/ru/gx#:~:text=%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C)   
