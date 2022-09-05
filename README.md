@@ -24,14 +24,20 @@
 [Brave](https://brave.com/)   
 [Brave - GitHub page](https://github.com/brave/brave-browser/releases/),   
 
-★**Эмуляторы андроид**   
-[статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html), [BlueStacks](https://support.bluestacks.com/hc/en-us/articles/360028172691-BlueStacks-offline-installer), [Nox](https://www.bignox.com/), [Andy OS](https://www.andyroid.net/),   
+★**Андроид эмуляторы**   
+[Статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html)   
+[BlueStacks](https://support.bluestacks.com/hc/en-us/articles/360028172691-BlueStacks-offline-installer)   
+[Nox](https://www.bignox.com/)   
+[Andy OS](https://www.andyroid.net/)   
 
-★**Другое**     
-[Папка на облако меил ру](https://cloud.mail.ru/public/YnKv/fUV89mucN)
+★**Другое**   
+[Облако Mail.ru](https://cloud.mail.ru/)
 
-★**Удаленное управление**  
-[Anydesk](https://anydesk.com/ru), [TeamViewer](https://www.teamviewer.com/ru/),   
+★**Удаленное управление**   
+[Anydesk](https://anydesk.com/ru)   
+[TeamViewer](https://www.teamviewer.com/ru/)   
+[Parsec](https://parsec.app/)   
+
 ★**Telegram Web**   
 [Версия K](https://webk.telegram.org/)       
 [Версия Z](https://webz.telegram.org/)       
