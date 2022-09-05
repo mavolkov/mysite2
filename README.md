@@ -1,8 +1,9 @@
 ★**Check IP**   
 [whoer.net](https://whoer.net/)   
 [2ip.ru](https://2ip.ru/)   
-[янд.интернет](https://yandex.ru/internet)   
-Быстрая выдача: [api.ipify.org](https://api.ipify.org), [ipify.org](https://www.ipify.org/)     
+[я.Интернет](https://yandex.ru/internet)   
+[API api.ipify.org](https://api.ipify.org)  
+[ipify.org](https://www.ipify.org/)     
 Разрешение экрана: [screenresolution.ru](https://screenresolution.ru/), [myresolutionis.ru](http://myresolutionis.ru/)    
 
 ★**Браузеры**   
