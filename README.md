@@ -25,7 +25,8 @@
 [Brave - GitHub page](https://github.com/brave/brave-browser/releases/),   
 
 ★**Эмуляторы андроид**   
-[статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html), [BlueStacks](https://support.bluestacks.com/hc/en-us/articles/360028172691-BlueStacks-offline-installer), [Nox](https://www.bignox.com/), [Andy OS](https://www.andyroid.net/),         
+[статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html), [BlueStacks](https://support.bluestacks.com/hc/en-us/articles/360028172691-BlueStacks-offline-installer), [Nox](https://www.bignox.com/), [Andy OS](https://www.andyroid.net/),   
+
 ★**Другое**     
 [Папка на облако меил ру](https://cloud.mail.ru/public/YnKv/fUV89mucN)
 
