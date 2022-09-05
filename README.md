@@ -34,14 +34,11 @@
 [BlueStacks (official download page)](https://www.bluestacks.com/download.html)   
 [NoxPlayer (rus)](https://ru.bignox.com/)   
 [NoxPlayer (eng)](https://www.bignox.com/)   
-
+[Andy OS](https://www.andyroid.net/)   
 [Статья про эмуляторы](https://compconfig.ru/mobile/emulyator-android-dlya-pk.html)   
 
-[Nox](https://www.bignox.com/)   
-[Andy OS](https://www.andyroid.net/)   
-
 ★**Другое**   
-[Облако Mail.ru](https://cloud.mail.ru/)
+[Облако Mail.ru](https://cloud.mail.ru/)   
 
 ★**Удаленное управление**   
 [Anydesk](https://anydesk.com/ru)   
