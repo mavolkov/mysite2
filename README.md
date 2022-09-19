@@ -22,7 +22,8 @@
 [Chromium](https://download-chromium.appspot.com/)   
 [MS Edge](https://www.microsoft.com/ru-ru/edge)   
 [Brave](https://brave.com/)   
-[Brave - GitHub page](https://github.com/brave/brave-browser/releases/),   
+[Brave - GitHub page](https://github.com/brave/brave-browser/releases/)   
+[Tor Browser](https://www.torproject.org/ru/download/)   
 
 ★**Андроид эмуляторы**   
 
