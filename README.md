@@ -24,6 +24,7 @@
 [Brave](https://brave.com/)   
 [Brave - GitHub page](https://github.com/brave/brave-browser/releases/)   
 [Tor Browser](https://www.torproject.org/ru/download/)   
+[DuckDuckGo Browser](https://duckduckgo.com/mac)   
 
 ★**Андроид эмуляторы**   
 
